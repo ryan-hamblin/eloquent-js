@@ -2,7 +2,7 @@
 
 ##Chapter 2 Exercises##
 
-### Problem 1 ###
+####Problem 1 ####
 ```
 Looping a triangle
 
@@ -17,7 +17,7 @@ Write a loop that makes seven calls to console.log to output the following trian
 #######
 ```
 
-###My Solution ###
+####My Solution ####
 
 ```
 var count = '';
@@ -28,7 +28,7 @@ while(count < '#######'){
 ```
 
 
-###Problem 2###
+####Problem 2####
 
 ```
 FizzBuzz
@@ -40,7 +40,7 @@ When you have that working, modify your program to print "FizzBuzz", for numbers
 (This is actually an interview question that has been claimed to weed out a significant percentage of programmer candidates. So if you solved it, you’re now allowed to feel good about yourself.)
 ```
 
-###My Solution###
+####My Solution####
 
 ```
 for(var i = 0; i <= 100; i++){
